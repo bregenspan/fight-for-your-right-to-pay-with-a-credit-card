@@ -47,6 +47,7 @@
  */
 
 $(function () {
+    'use strict';
 
     function detectInitialPaymentForm(callback) {
         /*  Detect whether the user is on the first step
@@ -102,9 +103,10 @@ $(function () {
 
     function detectPaymentSelectionForm(callback) {
         /* Detect whether user is on the form that
-         * actually permits selecting a payment method. */
+         * actually permits selecting a payment method, execute
+         * callback if so */
         if ($('#fieldRow_1').length &&
-                $('#fieldRow_2'.length)) {
+                $('#fieldRow_2').length) {
             callback();
         }
         return false;
@@ -122,7 +124,7 @@ $(function () {
         $('#funding_select').click();
     });
 
-    detectStepTwo(function () {
+    detectPaymentSelectionForm(function () {
         // The user is on the payment step where, after waiting
         // for the page to load (possibly with intentionally slow
         // pageload time, because I wouldn't put it past these
