@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   inkscape:export-filename="/home/ben/gmail-extension-example/icon_128.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="icon.svg">
+  <defs
+     id="defs2987">
+    <linearGradient
+       id="linearGradient3830">
+      <stop
+         id="stop3832"
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1;" />
+      <stop
+         id="stop3834"
+         offset="1"
+         style="stop-color:#33745f;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter3818"
+       x="-0.30028679"
+       width="1.6005736"
+       y="-0.41440584"
+       height="1.8288117">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="14.578641"
+         id="feGaussianBlur3820" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="72.664224"
+     inkscape:cy="62.491925"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1166"
+     inkscape:window-height="651"
+     inkscape:window-x="106"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,64)">
+    <rect
+       style="fill:#ffe500;fill-opacity:1;stroke:none;filter:url(#filter3818)"
+       id="rect2993-4"
+       width="109.25783"
+       height="63.16468"
+       x="10.625654"
+       y="-56.958267"
+       rx="12.263726"
+       ry="12.263726"
+       transform="matrix(0.85765449,0.23804816,-0.23804816,0.85765449,5.907658,5.744125)" />
+    <rect
+       style="fill:#003a00;fill-opacity:1;stroke:none"
+       id="rect2993"
+       width="86.778427"
+       height="50.168777"
+       x="18.191494"
+       y="-42.735016"
+       rx="9.74051"
+       ry="9.74051"
+       transform="matrix(0.9635727,0.26744653,-0.26744653,0.9635727,0,0)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3840"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.7676813,0.20372607,-0.20372607,0.7676813,34.682018,-50.312358)"
+       inkscape:transform-center-x="15.698177"
+       inkscape:transform-center-y="-7.2184806"><flowRegion
+         id="flowRegion3842"><rect
+           id="rect3844"
+           width="137"
+           height="67.5"
+           x="25.5"
+           y="36.5" /></flowRegion><flowPara
+         id="flowPara3846"
+         style="font-size:8px">UBER ALLES</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3840-2"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.7676813,0.20372607,-0.20372607,0.7676813,14.924214,-38.529423)"
+       inkscape:transform-center-x="15.698177"
+       inkscape:transform-center-y="-7.2184805"><flowRegion
+         id="flowRegion3842-2"><rect
+           id="rect3844-7"
+           width="137"
+           height="67.5"
+           x="25.5"
+           y="36.5" /></flowRegion><flowPara
+         id="flowPara3846-9"
+         style="font-size:8px">3525 4454 4344 4344</flowPara></flowRoot>  </g>
+</svg>
