@@ -69,6 +69,7 @@ $(function () {
             // default payment methods we're trying to avoid
             var badOptions = [
                 'Bill Me Later',
+                'Instant Transfer',
                 'Bank Account',  // TODO: verify this is correct string
                 'Checking Account' // TODO: verify this is correct string
             ];
