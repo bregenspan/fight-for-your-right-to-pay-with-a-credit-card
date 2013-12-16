@@ -60,11 +60,6 @@ $(function () {
         function checkForAnnoyingDefaults() {
             var fundingSelector = $('#funding-mix');
 
-            // Make sure there is indeed no choice
-            if (fundingSelector.find('input[type=radio]').length) {
-                return false;
-            }
-
             // Make sure there is some reference to the annoying
             // default payment methods we're trying to avoid
             var badOptions = [
