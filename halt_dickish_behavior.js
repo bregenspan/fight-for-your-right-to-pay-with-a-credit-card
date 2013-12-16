@@ -133,6 +133,8 @@ $(function () {
 
         // Select the first card on the form:
         $('.Card:first input').attr('checked', 'checked');
+        if ($('.Card').length == 1)
+            $('#continue').click();
 
         // For safety's sake, don't do anything else for now.
         // It's up to user to submit.
